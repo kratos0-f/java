@@ -12,6 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Boolean2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Geometry" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Boolean3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ConditionalOperatorIf1" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
